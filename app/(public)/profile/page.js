@@ -62,7 +62,7 @@ export default function Profile() {
           </article>
         ))}
       </div>
-      <p className="text-secondary small">Nama klien dan angka proyek pada situs ini adalah data contoh.</p>
+      <p className="text-secondary small">Harap baca dengan teliti.</p>
 
       <h2 className="section-title mt-5">Kelebihan kami</h2>
       <div className="row g-3">
